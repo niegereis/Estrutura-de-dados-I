@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "*.html.erb": "html",
+    "*.hbs": "html",
+    "iostream": "cpp",
+    "linked-list.h": "c",
+    "path.h": "c",
+    "stack.h": "c",
+    "tests.h": "c",
+    "maze.h": "c",
+    "find-path.h": "c"
+  }
+}
